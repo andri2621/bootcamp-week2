@@ -1,0 +1,16 @@
+SUDAH	
+	.category
+	.city
+	.province
+	.roles
+	.users
+	.user_roles
+	.product
+	.address
+
+	
+BELUM / JANGAN DULU
+	cart
+	orders
+	order_detail
+	product_images

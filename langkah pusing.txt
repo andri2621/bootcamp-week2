@@ -1,0 +1,6 @@
+generate database
+
+bikin file modelnya.js
+copy hasil generate kesana
+
+bikin file index di modelnya
